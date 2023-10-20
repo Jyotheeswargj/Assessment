@@ -1,0 +1,17 @@
+[
+    {
+        "id": "123",
+        "amountSpent": 250,
+        "month": "January"
+    },
+    {
+        "id": "456",
+        "amountSpent": 90,
+        "month": "February"
+    },
+     {
+        "id": "890",
+        "amountSpent": 1000,
+        "month": "March"
+    }
+]

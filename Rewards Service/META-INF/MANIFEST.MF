@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Rewards_Service
+Bundle-SymbolicName: Rewards_Service
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: Rewards.Service
+Export-Package: web.api.assessment,
+ web.api.assessment.calculation.demo,
+ web.api.assessment.controller,
+ web.api.assessment.exception,
+ web.api.assessment.model,
+ web.api.assessment.service

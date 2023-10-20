@@ -1,0 +1,22 @@
+[
+  {
+    "id": 123,
+    "amountSpent": 105,
+    "month": "AUG"
+  },
+  {
+    "id": 123,
+    "amountSpent": 555,
+    "month": "AUG"
+  },
+  {
+    "id": 456,
+    "amountSpent": 235,
+    "month": "AUG"
+  },
+  {
+    "id": 789,
+    "amountSpent": 955,
+    "month": "AUG"
+  }
+]
